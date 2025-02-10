@@ -8,7 +8,7 @@ export default function HomePage() {
           Create <span className="text-[hsl(280,100%,70%)]">T3</span> App
         </h1>
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:gap-8">
-          Prova un po!          
+          Prova un po! Se cambia         
         </div>
       </div>
     </main>
